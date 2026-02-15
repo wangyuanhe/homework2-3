@@ -1,0 +1,6 @@
+# 请求：客户端的公钥
+uint64 public_key
+---
+# 响应：加密后的密文对
+uint64 y1
+uint64 y2
